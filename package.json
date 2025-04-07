@@ -114,7 +114,7 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
-    "inversify": "^6.0.1",
+    "inversify": "^6.2.2",
     "lodash": "^4.17.21",
     "open": "^8.4.2",
     "reflect-metadata": "^0.1.13",
